@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy | Jarvis AI Uploader</title>
+<style>
+body {
+  background: #081424;
+  color: white;
+  font: 16px Arial, sans-serif;
+  line-height: 1.7;
+  max-width: 800px;
+  margin: auto;
+  padding: 40px 20px;
+}
+h1, h2 { color: #54c8ff; }
+a { color: #ffce54; }
+</style>
+</head>
+<body>
+<h1>Privacy Policy</h1>
+<p>Last updated: November 16, 2026</p>
+
+<h2>1. Overview</h2>
+<p>Jarvis AI Uploader is a desktop application
+designed to help creators prepare and publish
+short-form videos to authorized accounts.</p>
+
+<h2>2. Information We Process</h2>
+<p>With user authorization, the application
+may process account identifiers, access tokens,
+video files, titles, descriptions, and
+publishing status information.</p>
+
+<h2>3. How Information Is Used</h2>
+<p>Information is used only to authenticate
+authorized accounts, prepare content,
+upload videos, and track publishing results.</p>
+
+<h2>4. Data Storage and Security</h2>
+<p>Authentication credentials and publishing
+records may be stored locally on the user's
+computer. Users should protect their devices
+and never share access tokens.</p>
+
+<h2>5. Data Sharing</h2>
+<p>Information required for publishing is
+transmitted to the relevant platform
+through its authorized interfaces.
+We do not sell personal data.</p>
+
+<h2>6. Data Retention and Deletion</h2>
+<p>Users may disconnect their accounts and
+remove locally stored credentials and
+publishing records. Data retained by TikTok
+is governed by TikTok's own policies.</p>
+
+<h2>7. Contact</h2>
+<p>For privacy inquiries, visit our
+<a href="https://github.com/AndriiAbramiuk/jarvis-ai-uploader">
+GitHub project page</a>.</p>
+
+<p><a href="index.html">Back to Home</a></p>
+</body>
+</html>
