@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jarvis AI Uploader</title>
+  <style>
+    body {
+      margin: 0;
+      background: #081424;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 70px 20px;
+    }
+    h1 { color: #54c8ff; }
+    p { line-height: 1.7; }
+    a { color: #ffce54; margin: 12px; }
+  </style>
+</head>
+<body>
+  <h1>Jarvis AI Uploader</h1>
+  <h2>MysteryVerse Facts</h2>
+  <p>
+    Jarvis AI Uploader helps creators prepare and
+    publish original educational short-form videos
+    about wildlife, nature, space and science.
+  </p>
+  <p>
+    Publishing requires authorization from the
+    account owner and supported platform access.
+  </p>
+  <nav>
+    <a href="terms.html">Terms of Service</a>
+    <a href="privacy.html">Privacy Policy</a>
+  </nav>
+</body>
+</html>
